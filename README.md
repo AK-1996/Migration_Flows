@@ -20,3 +20,11 @@ A network-science and econometric study of global migration flows (1990–2020, 
 - **Economic indicators alone** explain only a small fraction of migration-network variation.  
 - **Fixed-effects** highlight the role of inequality, unemployment and population in shaping centrality and flows.  
 - **Gravity model** performs best: distance, shared border/language/colonial history are strong predictors; economic effects secondary.
+
+## 🔧 Requirements
+- **MATLAB** ≥ R2021a  
+- **Toolboxes**:  
+  - Statistics and Machine Learning  
+  - Econometrics  
+  - Graph & Network Algorithms  
+- **Optional**: Parallel Computing Toolbox (for large-scale graphs)
